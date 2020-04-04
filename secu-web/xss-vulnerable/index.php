@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Cross-Site Scripting (XSS)</title>
+	<title>Faille XSS</title>
 </head>
 <body>
 
